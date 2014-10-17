@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jic:home|Door43 (jic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jic|d43-jic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jic/archive/master.zip|d43-jic.zip]]
+
+**Recent Changes**
+{{changes>ns = jic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jic|Ethnologue data]]
+
